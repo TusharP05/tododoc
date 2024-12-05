@@ -100,11 +100,7 @@ The Django To-Do List application includes comprehensive tests to ensure the rel
    - Update a todo item
    - Delete a todo item
 
-To run the tests, navigate to the project directory and execute the following command:
-
-```
-python manage.py test
-```
+Tests are automatically triggered using GitHub Action on every commit.
 
 The test results, including the coverage reports, can be found in the project's Git repository.
 
