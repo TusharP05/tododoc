@@ -93,14 +93,17 @@ To test the APIs, you can use the provided Postman collection, which includes ex
 The Django To-Do List application includes comprehensive tests to ensure the reliability and correctness of the codebase. The tests are divided into the following categories:
 
 1. **Unit Tests**: 100% code coverage for the application's models, views, and serializers.
+
+
 2. **Integration Tests**: 100% code coverage for the application's REST API endpoints.
+
+
 3. **End-to-End (E2E) Tests**: Tests for the following scenarios:
    - Create a todo item
    - View all todo items
    - Update a todo item
    - Delete a todo item
 
-Tests are automatically triggered using GitHub Action on every commit.
 
 The test results, including the coverage reports, can be found in the project's Git repository.
 
@@ -136,4 +139,5 @@ The Django admin superuser credentials for the hosted application are:
 
 The Django To-Do List application provides a simple and effective way to manage your tasks. With its comprehensive set of features, including a user-friendly Django Admin interface, RESTful APIs, and thorough testing, the application is a reliable and scalable solution for your task management needs.
 
-If you have any questions or encounter any issues, please feel free to reach out to the development team at the email addresses provided in the coding assignment.
+Assignment for The Backend Intern 
+Submitted By- Tushar
